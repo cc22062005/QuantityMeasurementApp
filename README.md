@@ -50,4 +50,4 @@ src/
 
 ## Author
 
-**cc22062005** - SRM University, BTech CSE (AIML)
+**P Chandan Kumar**
